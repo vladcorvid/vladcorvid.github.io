@@ -1,0 +1,21 @@
+.s {
+    font-size: 2px;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-weight: 900;
+    font-size: 36px;
+}
+h3 {
+    font-weight: 700;
+    font-size: 32px;
+}
+p {
+    font-weight: medium;
+    font-size: 24px;
+}
+button {
+    font-size: 16pt;
+}
